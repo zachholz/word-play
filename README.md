@@ -8,7 +8,7 @@
 --List languages
 
 ## Usage
-To view the site, you can go to --Insert your addresses mehequanna.github.io/portfolio.
+To view the site, you can go to --Insert your addresses https://mehequanna.github.io/portfolio.
 To use the code, you can clone the repository at --Use your addresses [https://github.com/Mehequanna/portfolio](https://github.com/Mehequanna/portfolio).
 --Simple use instructions.
 
