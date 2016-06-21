@@ -1,0 +1,6 @@
+User enters a string < 3 letters long:
+  input is < 3, output is blank
+user enters a word >3 letters:
+    result is the input.
+Build new array with every word in sentence greater than 3 characters:
+      loop through existing array to select words with more than three characters 
